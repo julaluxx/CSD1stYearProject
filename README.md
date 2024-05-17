@@ -3,5 +3,5 @@
 *Nice to see you here. Have a great day ><*
 
 ## **About**
-*This repo is all about my works/projects that I've accomplished in my school life*
+*This repo is my works/projects that I've accomplished in my school.*
 *It's not much, but I'll just keep tracking what I've done so far.*
